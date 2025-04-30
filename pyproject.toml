@@ -1,0 +1,14 @@
+[project]
+name = "azul-scripts"
+description = "NODES: Save Image (JPG), Combine Conditionings (Weighted)"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/cathodeDreams/comfyui-azul-scripts"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-azul-scripts"
+Icon = ""
